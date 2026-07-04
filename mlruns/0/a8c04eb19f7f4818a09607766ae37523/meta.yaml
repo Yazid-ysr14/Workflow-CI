@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/0/a8c04eb19f7f4818a09607766ae37523/artifacts
+end_time: 1783191900267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8c04eb19f7f4818a09607766ae37523
+run_name: ci_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783191884534
+status: 3
+tags: []
+user_id: runner
