@@ -1,0 +1,35 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# === Virtual environments ===
+venv/
+.venv/
+env/
+ENV/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === MLflow ===
+mlruns/
+mlartifacts/
+mlflow.db
+
+# === OS / Editor junk ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# === Env vars / secrets ===
+.env
+*.env.local
+
+# === Logs ===
+*.log
